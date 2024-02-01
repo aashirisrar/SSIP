@@ -10,6 +10,7 @@
 /Level 2/Task 4/blog-app/.next
 
 
+
 /Level 1/Task 1/todo-app/node_modules
 /Level 1/Task 2/blog-app/node_modules
 /Level 1/Task 3/todo-app/node_modules
@@ -18,9 +19,6 @@
 /Level 2/Task 2/blog-app/node_modules
 /Level 2/Task 3/todo-app/node_modules
 /Level 2/Task 4/blog-app/node_modules
-
-/Level 3/Task 1/blog-app/node_modules
-
 
 # testing
 /coverage
